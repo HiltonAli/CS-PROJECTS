@@ -1,16 +1,43 @@
 June 22 first time trying wireshark 
 
+Purpose of wireshark - It intercepts, captures, and visually breaks down digital traffic moving across a computer network in real time.
+Cybersecurity Analysis - Security teams use it to investigate anomalous behavior, hunt for malware, and spot data breaches by inspecting suspicious outbound traffic.
 
-Caturing my own internet traffic and explain
 
 
+PART 1 Caturing my own internet traffic and explain
 
 Start capture on WIFI
 I opened google youtube and world cup scores
 stopped the capture afterwards 
+Find : DNS TRAFFIC - TCP TRAFFIC - HTTPS TRAFFIC
 
 
 after go to statistics
 then coversations 
 
 
+wireshark basic steps for network scanning on macBook
+step 1: tap on WIFI or ethernet 
+step 2: go to the top of statistics and look for conversations
+Step 3: Go to whichever ip address you ar seeking 
+step 4: Apply a filter on the IP 
+
+
+
+What i learned 
+how to capture packets 
+Conversations
+coloring rules in wireshark
+
+
+
+
+
+
+
+
+Definitions 
+DNS - (Domain Name System) traffic is the flow of queries and responses between your device and a DNS server
+TCP - (Transmission Control Protocol) traffic is the flow of data packets over a network using a connection-oriented standard
+HTTP - (Hypertext Transfer Protocol) is the fundamental set of rules that allows web browsers and servers to communicate
