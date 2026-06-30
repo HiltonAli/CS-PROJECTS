@@ -17,7 +17,7 @@ after go to statistics
 then coversations 
 
 
-wireshark basic steps for network scanning on macBook
+wireshark basic steps for scanning a network 
 step 1: tap on WIFI or ethernet 
 step 2: go to the top of statistics and look for conversations
 Step 3: Go to whichever ip address you ar seeking 
@@ -25,11 +25,16 @@ step 4: Apply a filter on the IP
 
 
 
+
+
 What i learned 
+
+What monioring live network traffic looks like 
 how to capture & inspect packets 
-look at Conversations between ip address and other data
-apply filter on certain ip address 
-coloring rules in wireshark
+ analyze protcols (TCP - UDP - HTTP)
+look at Conversations between ip addresses 
+apply filters on certain ip addresses 
+coloring rules in wireshark & editing my coloring 
 
 
 
