@@ -26,8 +26,9 @@ step 4: Apply a filter on the IP
 
 
 What i learned 
-how to capture packets 
-Conversations
+how to capture & inspect packets 
+look at Conversations between ip address and other data
+apply filter on certain ip address 
 coloring rules in wireshark
 
 
