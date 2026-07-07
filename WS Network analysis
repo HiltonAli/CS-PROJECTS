@@ -13,8 +13,12 @@ stopped the capture afterwards
 Find : DNS TRAFFIC - TCP TRAFFIC - HTTPS TRAFFIC
 
 
-after go to statistics
-then coversations 
+Commands
+tap blue shark fin to start capture and then green to stop capture
+inspect the packets
+to filter, type whatever protocol example - TCP UDP HTTP
+to go deeper within packets go to conversations
+
 
 
 wireshark basic steps for scanning a network 
