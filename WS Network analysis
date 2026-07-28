@@ -49,6 +49,11 @@ coloring rules in wireshark & editing my coloring
 
 
 Example packet 
+TCP packet
+filter out traffic to only ip address ip.addr==140.82.112.6 && tcp.port==443 
+Look at coloring rules 
+
+
 
 
 
