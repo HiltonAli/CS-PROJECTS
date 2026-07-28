@@ -52,6 +52,7 @@ Example packet
 TCP packet
 filter out traffic to only ip address ip.addr==140.82.112.6 && tcp.port==443 
 Look at coloring rules 
+the red one has a flag 
 
 
 
