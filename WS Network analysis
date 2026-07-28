@@ -21,6 +21,7 @@ to go deeper within packets go to conversations
 
 
 
+
 wireshark basic steps for scanning a network 
 step 1: tap on WIFI or ethernet 
 step 2: go to the top of statistics and look for conversations
@@ -30,6 +31,12 @@ step 4: Apply a filter on the IP
 
 
 
+Packet inspection/details
+Frame (layer 1)   
+Source (MAC) (layer 2)
+Source(IP) (Layer 3)
+Protocol (Layer 4)
+Application protcol (layer 5)                       
 
 What i learned 
 
@@ -40,6 +47,8 @@ look at Conversations between ip addresses
 apply filters on certain ip addresses 
 coloring rules in wireshark & editing my coloring 
 
+
+Example packet 
 
 
 
