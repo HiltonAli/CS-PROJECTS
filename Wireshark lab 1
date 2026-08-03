@@ -19,14 +19,30 @@ inspect the packets
 to filter, type whatever protocol example - TCP UDP HTTP
 to go deeper within packets go to conversations
 
-
-
-
 wireshark basic steps for scanning a network 
-step 1: tap on WIFI or ethernet 
-step 2: go to the top of statistics and look for conversations
-Step 3: Go to whichever ip address you ar seeking 
-step 4: Apply a filter on the IP 
+
+
+
+
+step 1: Capture network
+cature for 1-2 minutes go through sites like google, youtube and amazon
+
+
+
+
+
+step 2: Identify DNS, TCP , TLS/HTTPS
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -46,19 +62,6 @@ how to capture & inspect packets
 look at Conversations between ip addresses 
 apply filters on certain ip addresses 
 coloring rules in wireshark & editing my coloring 
-
-
-Example packet 
-TCP packet
-filter out traffic to only ip address ip.addr==140.82.112.6 && tcp.port==443 
-Look at coloring rules 
-the red one has a flag 
-
-
-
-
-
-
 
 
 
