@@ -4,15 +4,11 @@ Purpose of wireshark - It intercepts, captures, and visually breaks down digital
 Cybersecurity Analysis - Security teams use it to investigate anomalous behavior, hunt for malware, and spot data breaches by inspecting suspicious outbound traffic.
 
 
-
 PART 1 Caturing my own internet traffic and explain
-
 Start capture on WIFI
 I opened google youtube and world cup scores
 stopped the capture afterwards 
 Find : DNS TRAFFIC - TCP TRAFFIC - HTTPS TRAFFIC
-
-
 Commands
 tap blue shark fin to start capture and then green to stop capture
 inspect the packets
