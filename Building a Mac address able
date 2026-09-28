@@ -1,3 +1,15 @@
 Cisco packet tracer 
 Cisco Packet Tracer is computer networking simulation software for teaching and learning networking, IoT, and cybersecurity skills in a virtual lab.
 NETWORK ESSENTIALS CLASS
+
+
+IP ADDRESS = WHERE THE DEVICE IS ON THE NETWORK
+MAC ADDRESS = WHICH PHYSICAL/NETWORK INTERFACE THE DEVICE IS 
+
+Why building a MAC ADDRESS is useful
+- identifying devices on a network 
+- troubleshoot network connections 
+- dectect unfamilar devices
+- investigate suspicious network activity 
+- understand how swiches move network traffic 
+
