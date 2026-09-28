@@ -6,10 +6,14 @@ NETWORK ESSENTIALS CLASS
 IP ADDRESS = WHERE THE DEVICE IS ON THE NETWORK
 MAC ADDRESS = WHICH PHYSICAL/NETWORK INTERFACE THE DEVICE IS 
 
+MAC ADDRESS is important because it gives a a device a unique identity a local network.
+
 Why building a MAC ADDRESS is useful
 - identifying devices on a network 
 - troubleshoot network connections 
 - dectect unfamilar devices
 - investigate suspicious network activity 
 - understand how swiches move network traffic 
+
+
 
